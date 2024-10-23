@@ -1,5 +1,3 @@
-🔭 I’m currently working on Neovim Configuration.<br>🌱 I’m currently learning machine learning.<br>💬 I Really Look Forward To Work With You. <br>⚡ I Like To Play Chess , Read Books , Watch Cinema.
-
 ![Header Image](https://w.wallhaven.cc/full/m3/wallhaven-m35z1k.png)
 
 ## 🌐 Socials:
