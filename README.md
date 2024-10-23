@@ -1,6 +1,6 @@
-# 💫 About Me:
 🔭 I’m currently working on Neovim Configuration.<br>🌱 I’m currently learning machine learning.<br>💬 I Really Look Forward To Work With You. <br>⚡ I Like To Play Chess , Read Books , Watch Cinema.
 
+![Header Image](https://i.postimg.cc/fbytT723/Jaivesh-Tech.png)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gyanranjan_01) 
