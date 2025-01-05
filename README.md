@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as freelance web developer .<br>👯 I’m looking to collaborate on open source projects.<br>🌱 I’m currently learning machine learning.<br>⚡ i play chess  , do calisthenics  , Read books , watch Cinema.
+🔭 I’m currently working as freelance web developer .<br>👯 I’m looking to collaborate on open source projects.<br>🌱 I’m currently learning machine learning.<br>⚡ i play chess  , do calisthenics  , Read books , watch Cinema and more . 
 
 
 ## 🌐 Socials:
