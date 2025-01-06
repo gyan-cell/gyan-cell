@@ -1,3 +1,6 @@
+
+![wallhaven-m35z1k](https://github.com/user-attachments/assets/c408fdbe-c533-4b05-b543-dc76a1d83896)
+
 # 💫 About Me:
 🔭 I’m currently working as freelance web developer .<br>👯 I’m looking to collaborate on open source projects.<br>🌱 I’m currently learning machine learning.<br>⚡ i play chess  , do calisthenics  , Read books , watch Cinema and more . 
 
