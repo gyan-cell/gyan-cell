@@ -8,6 +8,5 @@ visit my website https://gyanranjan.in
 
 
 ##  Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gyanranjan_01) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gyanranjan_01) 
-
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gyanranjan_01) 
 visit my website (https://gyanranjan.in)
