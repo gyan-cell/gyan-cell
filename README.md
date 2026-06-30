@@ -6,7 +6,6 @@ BE CS (AI&ML) — Mumbai University · 2026
 ---
 
 Building production-grade systems, then finding what breaks them.  
-Currently shipping Go microservices at Sapphire Broking.
 
 ---
 
